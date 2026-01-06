@@ -19,6 +19,7 @@ Brutalism in UI is about raw expression and function — bold outlines, stark co
 - Input
 - Label
 - Select
+
 More to come, eventually. 
 
 Ensure your project has shadcn/ui, Tailwind CSS, and Radix (if used) set up correctly — brutal-shadcn reuses those foundations. 
